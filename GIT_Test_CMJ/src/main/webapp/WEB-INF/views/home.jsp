@@ -9,7 +9,6 @@
 <body>
 <h1>
 	Users 디렉토리 삭제 후 변경!
-	가나다라마바사
 </h1>
 
 <P>  The time on the server is ${serverTime}. </P>
